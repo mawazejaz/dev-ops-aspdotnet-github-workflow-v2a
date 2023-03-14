@@ -1,6 +1,6 @@
 # dev-ops-aspdotnet-github-workflow-v2a
 
-#Steps to execute#
+#Steps to execute
 
 Git Pull/Push
 
