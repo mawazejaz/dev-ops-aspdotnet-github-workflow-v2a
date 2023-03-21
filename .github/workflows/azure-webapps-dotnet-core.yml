@@ -79,7 +79,7 @@ jobs:
       - name: Download artifact from build job
         uses: actions/download-artifact@v3
         with:
-          creds: ${{MY_AZURE_APP_SECRET}}
+          creds: ${{ MY_AZURE_APP_SECRET }}
           name: .net-app
 
       - name: Deploy to Azure Web App
