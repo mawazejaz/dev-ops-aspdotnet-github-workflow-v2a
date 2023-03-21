@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net6.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/bfb5da96-f1fc-4a7b-97a8-872a2867ef1c/resourceGroups/devops/providers/Microsoft.Web/sites/mawaz"
+}

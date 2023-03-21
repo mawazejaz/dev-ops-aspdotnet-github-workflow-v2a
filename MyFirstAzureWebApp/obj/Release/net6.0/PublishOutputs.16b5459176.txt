@@ -1,0 +1,7 @@
+/home/mawaz/MS/DevOps/DevOps GitHub/dev-ops-aspdotnet-github-workflow-v2a/MyFirstAzureWebApp/bin/Release/net6.0/publish/MyFirstAzureWebApp
+/home/mawaz/MS/DevOps/DevOps GitHub/dev-ops-aspdotnet-github-workflow-v2a/MyFirstAzureWebApp/bin/Release/net6.0/publish/appsettings.Development.json
+/home/mawaz/MS/DevOps/DevOps GitHub/dev-ops-aspdotnet-github-workflow-v2a/MyFirstAzureWebApp/bin/Release/net6.0/publish/appsettings.json
+/home/mawaz/MS/DevOps/DevOps GitHub/dev-ops-aspdotnet-github-workflow-v2a/MyFirstAzureWebApp/bin/Release/net6.0/publish/MyFirstAzureWebApp.dll
+/home/mawaz/MS/DevOps/DevOps GitHub/dev-ops-aspdotnet-github-workflow-v2a/MyFirstAzureWebApp/bin/Release/net6.0/publish/MyFirstAzureWebApp.deps.json
+/home/mawaz/MS/DevOps/DevOps GitHub/dev-ops-aspdotnet-github-workflow-v2a/MyFirstAzureWebApp/bin/Release/net6.0/publish/MyFirstAzureWebApp.runtimeconfig.json
+/home/mawaz/MS/DevOps/DevOps GitHub/dev-ops-aspdotnet-github-workflow-v2a/MyFirstAzureWebApp/bin/Release/net6.0/publish/MyFirstAzureWebApp.pdb
