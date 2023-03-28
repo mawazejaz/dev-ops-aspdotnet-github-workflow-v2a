@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/mawaz/MS/DevOps/DevOps GitHub/dev-ops-aspdotnet-github-workflow-v2a/MyFirstAzureWebApp/MyFirstAzureWebApp.csproj": {}
+    "C:\\Users\\Mawaz OutSource\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj": {}
   },
   "projects": {
-    "/home/mawaz/MS/DevOps/DevOps GitHub/dev-ops-aspdotnet-github-workflow-v2a/MyFirstAzureWebApp/MyFirstAzureWebApp.csproj": {
+    "C:\\Users\\Mawaz OutSource\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mawaz/MS/DevOps/DevOps GitHub/dev-ops-aspdotnet-github-workflow-v2a/MyFirstAzureWebApp/MyFirstAzureWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Mawaz OutSource\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
         "projectName": "MyFirstAzureWebApp",
-        "projectPath": "/home/mawaz/MS/DevOps/DevOps GitHub/dev-ops-aspdotnet-github-workflow-v2a/MyFirstAzureWebApp/MyFirstAzureWebApp.csproj",
-        "packagesPath": "/home/mawaz/.nuget/packages/",
-        "outputPath": "/home/mawaz/MS/DevOps/DevOps GitHub/dev-ops-aspdotnet-github-workflow-v2a/MyFirstAzureWebApp/obj/",
+        "projectPath": "C:\\Users\\Mawaz OutSource\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+        "packagesPath": "C:\\Users\\Mawaz OutSource\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mawaz OutSource\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/mawaz/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Mawaz OutSource\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
