@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BVKuC9dQ1HzpYK4YGfUCAAPi9ZxD1R7bcznkcVxFVbGrGPl4pNSOfc6zrnCk3t7wYKHJ74UP5DioCNwgTBj7eA==",
+  "dgSpecHash": "aB9x187FIcm8nW2clklylQS4H4zYGF/lGP+zmjzxh1oPXDNAHPqvIDD7yL7vVkLf9GlCsdUhCC6/91XdgFK9ZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mawaz\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Mawaz\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
-    "C:\\Users\\Mawaz\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
-    "C:\\Users\\Mawaz\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
-    "C:\\Users\\Mawaz\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
-    "C:\\Users\\Mawaz\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Mawaz\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Mawaz\\Source\\Repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
