@@ -124,7 +124,8 @@ jobs:
         with:
           app-name: ${{ env.AZURE_WEBAPP_NAME }}
           publish-profile: ${{ secrets.AZURE_PUBLISH_PROFILE_V002 }}
-          package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}        
+          package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}  
+          
   deploy-Stage:
     permissions:
       contents: none
@@ -153,7 +154,7 @@ jobs:
           publish-profile: ${{ secrets.AZURE_PUBLISH_PROFILE_V002 }}
           package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}       
           
-deploy-Prod:
+  deploy-Prod:
    permissions:
       contents: none
    runs-on: ubuntu-latest
