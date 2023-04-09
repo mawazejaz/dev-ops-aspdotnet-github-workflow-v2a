@@ -4783,19 +4783,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mawaz OutSource\\.nuget\\packages\\": {}
+    "C:\\Users\\Mawaz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mawaz OutSource\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebAppTests\\MyFirstAzureWebAppTests.csproj",
+      "projectUniqueName": "C:\\Users\\Mawaz\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebAppTests\\MyFirstAzureWebAppTests.csproj",
       "projectName": "MyFirstAzureWebAppTests",
-      "projectPath": "C:\\Users\\Mawaz OutSource\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebAppTests\\MyFirstAzureWebAppTests.csproj",
-      "packagesPath": "C:\\Users\\Mawaz OutSource\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mawaz OutSource\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebAppTests\\obj\\",
+      "projectPath": "C:\\Users\\Mawaz\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebAppTests\\MyFirstAzureWebAppTests.csproj",
+      "packagesPath": "C:\\Users\\Mawaz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mawaz\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebAppTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mawaz OutSource\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mawaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4809,8 +4809,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Mawaz OutSource\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj": {
-              "projectPath": "C:\\Users\\Mawaz OutSource\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj"
+            "C:\\Users\\Mawaz\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj": {
+              "projectPath": "C:\\Users\\Mawaz\\source\\repos\\mawazejaz\\dev-ops-aspdotnet-github-workflow-v2a\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj"
             }
           }
         }
@@ -4862,7 +4862,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
