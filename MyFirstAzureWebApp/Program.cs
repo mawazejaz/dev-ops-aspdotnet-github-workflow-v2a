@@ -9,9 +9,9 @@ string environmentName = null;
 environmentName = "Development";
 #elif RELEASE
 environmentName = "Development";
-#elif TESTPUBLISH 
+#elif Testing 
 environmentName = "TestPublish";
-#elif STAGINGPUBLISH 
+#elif Staging 
 environmentName = "StagingPublish";
 #else
 environmentName = "ProductionPublish";
